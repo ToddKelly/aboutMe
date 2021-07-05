@@ -1,5 +1,5 @@
 # aboutMe
-Hi I'm Todd Kelly   I am a carpenter turned Developer. I am currently studying in the Carleton University Full Stack Developer Boot Camp.
+Hi I'm Todd Kelly   I am a carpenter turned developer. I am currently studying in the Carleton University Full Stack Developer Boot Camp.
 
 Let's Connect:
 <a href="https://www.linkedin.com/in/todd-kelly-2b3b4a205/" rel="nofollow">
